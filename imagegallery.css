@@ -1,0 +1,21 @@
+.img{
+    display: grid;
+    height: max-content;
+    width: max-content ;
+    border: 2px solid black;
+    justify-content: center;align-items: center;
+    margin: auto;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+
+    
+    
+    
+    
+    
+
